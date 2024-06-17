@@ -1,6 +1,6 @@
 # PLPBasicGitAssignment
 
-# This assignment has provided a solid foundation in using Git and GitHub, covering repository creation, local setup, making changes, committing, pushing, and verifying changes on GitHub.
+This assignment has provided a solid foundation in using Git and GitHub, covering repository creation, local setup, making changes, committing, pushing, and verifying changes on GitHub.
 
 # Task 1: Repository Setup
 
