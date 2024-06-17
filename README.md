@@ -60,5 +60,5 @@ $ git push -u origin main
 
 1. Verify on GitHub:
 
--Visited my GitHub repository in a web browser.
--Confirmed that hello.txt and the commit message "Add hello.txt with a greeting" are visible in the repository.
+- Visited my GitHub repository in a web browser.
+- Confirmed that hello.txt and the commit message "Add hello.txt with a greeting" are visible in the repository.
